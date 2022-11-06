@@ -5,7 +5,7 @@ import Container from "react-bootstrap/Container";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Link } from "react-router-dom";
 import { useState } from "react";
-import { useEffect } from "react";
+
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 

@@ -1,0 +1,30 @@
+.mycont {
+  display: flex;
+  justify-content: space-between;
+}
+.logoimg {
+  height: 50px;
+  margin-left: -70px;
+}
+.me-auto {
+  font-size: 14px;
+  font-weight: 600;
+}
+a {
+  text-decoration: none;
+  margin-left: 1.2rem;
+  color: blue;
+}
+a:hover {
+  text-decoration: underline;
+}
+.Navbutton {
+  border: none;
+  font-size: 12px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background-color: green;
+  color: white;
+  font-weight: 600;
+  padding: 0.5rem;
+}

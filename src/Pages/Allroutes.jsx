@@ -7,12 +7,11 @@ import Signup from "./Signup";
 const Allroutes = () => {
   return (
     <Routes>
-      <Route path="/" element={<Login />} />
       <Route path="/home" element={<Home />} />
+      <Route path="/" element={<Login />} />
       <Route path="/signup" element={<Signup />} />
     </Routes>
   );
 };
 
 export default Allroutes;
-//madhu.
